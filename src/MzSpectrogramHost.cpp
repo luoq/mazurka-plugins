@@ -18,6 +18,7 @@
 
 #include "MzSpectrogramHost.h" 
 
+#include <stdlib.h>
 #include <math.h>
 
 

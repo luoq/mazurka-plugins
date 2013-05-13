@@ -19,6 +19,7 @@
 
 #include <stdio.h>
 #include <string>
+#include <stdlib.h>
 #include <math.h>
 
 #define METHOD_MAGNITUDE_PRODUCT   1
