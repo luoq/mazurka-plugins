@@ -1,0 +1,4 @@
+
+
+all:
+	./makepluginscpp > plugins.cpp
